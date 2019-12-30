@@ -18,8 +18,8 @@ const int ANIM_DELAY = 40;
 
 void setup() {
 	lmd.setEnabled(true);
-  // Lightlevel from 0 (lowest) to 10 (heighest) 
-    lmd.setIntensity(2);
+	// Lightlevel from 0 (lowest) to 10 (heighest) 
+	lmd.setIntensity(2);
 }
 
 int x = 0;
